@@ -29,7 +29,7 @@ clone and run it locally 👇
 
 ```bash
 git clone https://github.com/NurmuhammadMirov/vue-to-do.git
-cd counter-app
+cd vue-to-do
 ```
 ### 2. Install dependencies
 
